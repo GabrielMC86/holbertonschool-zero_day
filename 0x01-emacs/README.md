@@ -1,0 +1,1 @@
+Folder contains task in order to execute emacs basic commands
